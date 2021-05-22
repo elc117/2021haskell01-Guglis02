@@ -1,0 +1,2 @@
+-- Prática 01 de Haskell - Parte 1
+-- Nome: 
